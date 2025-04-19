@@ -34,7 +34,7 @@ Bem-vindo ao **EstoqueHub**, um sistema de controle de estoque com foco em **pro
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Me chamo **Vitor Elohim**, sou estudante de Tecnologia em Sistemas para Internet, apaixonado por desenvolvimento de software e arquitetura limpa.  
+Olá! Me chamo **Vitor de Oliveira**, sou estudante de Tecnologia em Sistemas para Internet, apaixonado por desenvolvimento de software e arquitetura limpa.  
 Tenho experiência com projetos web, mobile e desktop, utilizando principalmente **.NET, React, React Native e PostgreSQL**.
 
 Estou construindo meu portfólio com projetos sólidos, reais e escaláveis, com foco total em conquistar minha vaga como **desenvolvedor júnior em 2025** 🚀
@@ -46,7 +46,7 @@ Estou construindo meu portfólio com projetos sólidos, reais e escaláveis, com
 
 ---
 
-## 🔵 FirstByte - Minha Metodologia de Aprendizado
+## 🔵 FirstByte - Juntos desenvolvendo soluções
 
 > A **FirstByte** é o meu selo de aprendizado e projetos, onde amigos juntos colaboram para desenvolver soluções incríveis, baseados na ideia de que o mais importante é **começar** — mesmo que com o primeiro byte.
 
