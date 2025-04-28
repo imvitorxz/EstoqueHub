@@ -64,5 +64,5 @@ Com a **filosofia FirstByte**, eu:
 💼 Se você gostou do EstoqueHub, confira meu perfil e entre em contato para colaborações ou oportunidades!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vitor-colombelli)
-- 🐙 [GitHub](https://github.com/vitorxzspes)
-- 📫 vitor69776@estudante.ifb.edu.br
+- 🐙 [GitHub](https://github.com/imvitorxz)
+- 📫 contato@saberevolve.com.br
