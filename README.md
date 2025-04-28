@@ -46,19 +46,19 @@ Estou construindo meu portfólio com projetos sólidos, reais e escaláveis, com
 
 ---
 
-## 🔵 FirstByte - Juntos desenvolvendo soluções
+## 🧬 Saber Evolve - Soluções que Transformam
 
-> A **FirstByte** é o meu selo de aprendizado e projetos, onde amigos juntos colaboram para desenvolver soluções incríveis, baseados na ideia de que o mais importante é **começar** — mesmo que com o primeiro byte.
+> A **Saber Evolve** é a minha marca pessoal de desenvolvimento de soluções, onde construo projetos com propósito, qualidade e inovação, acreditando que o conhecimento é a força que move grandes transformações.
 
-Com a **filosofia FirstByte**, eu:
+Com a **filosofia Saber Evolve**, eu:
 
-- 🚀 Crio projetos com foco em aprendizado real, aplicando boas práticas desde o início
-- 📦 Desenvolvo APIs e sistemas completos para portfólio e uso comercial
-- 🧠 Registro minha evolução com estudo de arquitetura, segurança, boas práticas e clean code
-- 📚 Uso a organização e repetição como base para fixar o conhecimento
+- 🚀 Crio projetos aplicando boas práticas desde o início, pensando na escalabilidade e manutenção
+- 📦 Desenvolvo APIs, sistemas e aplicações completos para portfólio e uso comercial
+- 🧠 Registro minha evolução constante em arquitetura de software, segurança, clean code e melhores práticas de mercado
+- 📚 Baseio o aprendizado em organização, prática deliberada e melhoria contínua
 
-> “Um projeto por vez, um byte por dia, uma carreira inteira pela frente.” – Vitor Elohim
-
+> “Evoluir é transformar um byte de conhecimento em infinitas possibilidades.” – Vitor
+> 
 ---
 
 💼 Se você gostou do EstoqueHub, confira meu perfil e entre em contato para colaborações ou oportunidades!
